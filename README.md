@@ -2,7 +2,7 @@
 
 Привет! В этом репозитории лежат стикеры, обложка и другая атрибутика [Иканам Стьюдентс Комьюнити](https://vk.com/ikanam). Если хочешь, добавляй свою атрибутику и наклейки! Иногда мы её печатаем и распростроняем (ко всяким знаковым событиям вроде посвята или разных конференций). Не понимаешь как нарисовать и залить в репозиторий? [Напиши мне вконтакте](https://vk.com/ppilif) или в телеграм (@ppilif).
 
-Огромное спасибо за прорисовку стикеров нашим великолепным художниам! А именно:
+__Огромное спасибо за прорисовку стикеров нашим великолепным художниам! А именно:__
 
 1. Конновой Насте: [1](https://github.com/FUlyankin/stickers/blob/master/cover.png) [2](https://github.com/FUlyankin/stickers/blob/master/2-itog_stickers/swan.png)  [3](https://github.com/FUlyankin/stickers/blob/master/2-itog_stickers/posvyat.png) [4](https://github.com/FUlyankin/stickers/blob/master/2-itog_stickers/Micro_Macro.png) [5](https://github.com/FUlyankin/stickers/blob/master/2-itog_stickers/Ekanam_minimal.png)  [6](https://github.com/FUlyankin/stickers/tree/master/merch_2019)
 1. Головановой Лизе [1](https://github.com/FUlyankin/stickers/blob/master/2-itog_stickers/potom_spat.png) [2](https://github.com/FUlyankin/stickers/blob/master/2-itog_stickers/pdf/mouse_learning.pdf)
@@ -18,7 +18,7 @@
 10. Масловой Соне [1](https://github.com/FUlyankin/stickers/blob/master/2-itog_stickers/pdf/data_cry.jpg)
 
 
-**Чуть подробнее про стикеры:**
+### Чуть подробнее про стикеры:
 
 У программистов [много разных наклеек](http://hexb.in/). Также много наклеек у дата-сайнтистов. Обычно, каждый год на датафест (огромное собрание специалистов по анализу данных) печатается новая партия наклеек. Например, вот таких:
 
