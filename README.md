@@ -15,7 +15,7 @@ __Огромное спасибо за прорисовку стикеров н�
 7. Дорофеевой Насте: [1](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/4-300.png)
 8. Третьякову Диме и Майоровой Ксюше: [1](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/commet.jpg) [2](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/2.png)
 9. Габриелян Насте [1](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/is_lm.pdf)
-10. Масловой Соне [1](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/data_cry.jpg)
+10. Масловой Соне [1](new/prod_stickers/data_cry.jpg)
 
 
 ### Чуть подробнее про стикеры:
