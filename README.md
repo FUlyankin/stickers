@@ -4,12 +4,12 @@
 
 __Огромное спасибо за прорисовку стикеров нашим великолепным художниам! А именно:__
 
-1. Конновой Насте: [1](https://github.com/FUlyankin/stickers/blob/master/cover.png) [2](https://github.com/FUlyankin/stickers/blob/master/2-itog_stickers/swan.png)  [3](https://github.com/FUlyankin/stickers/blob/master/2-itog_stickers/posvyat.png) [4](https://github.com/FUlyankin/stickers/blob/master/2-itog_stickers/Micro_Macro.png) [5](https://github.com/FUlyankin/stickers/blob/master/2-itog_stickers/Ekanam_minimal.png)  [6](https://github.com/FUlyankin/stickers/tree/master/merch_2019)
-1. Головановой Лизе [1](https://github.com/FUlyankin/stickers/blob/master/2-itog_stickers/potom_spat.png) [2](https://github.com/FUlyankin/stickers/blob/master/2-itog_stickers/pdf/mouse_learning.pdf)
-2. Жильцовой Алисе и Шебзуховой Дарине:  [1](https://github.com/FUlyankin/stickers/blob/master/2-itog_stickers/pot.png) [2](https://github.com/FUlyankin/stickers/blob/master/2-itog_stickers/elips.png)
-2. Кункабаевой Камиле: [1](https://github.com/FUlyankin/stickers/blob/master/2-itog_stickers/wolfram.png) [2](https://github.com/FUlyankin/stickers/blob/master/2-itog_stickers/var.png)
-3. Щепиловой Ире и Зарманбетову Ахмеду: [1](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/truth.png) [2](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/economy.png) [3](https://github.com/FUlyankin/stickers/blob/master/2-itog_stickers/pdf/beta_1.pdf)
-4. Каипову Булату: [1](https://github.com/FUlyankin/stickers/blob/master/2-itog_stickers/porno.png)
+1. Конновой Насте: [1](https://github.com/Chetoff1228/stickers/blob/master/new/ikanam/cover.png) [2](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/swan.png)  [3](https://github.com/Chetoff1228/stickers/blob/master/old/2-itog_stickers/posvyat.png) [4](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/Micro_Macro.png) [5](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/Ekanam_minimal.png)  [6](https://github.com/Chetoff1228/stickers/tree/master/old/merch_2019)
+1. Головановой Лизе [1](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/potom_spat.png) [2](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/mouse_learning.pdf)
+2. Жильцовой Алисе и Шебзуховой Дарине:  [1](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/pot.png) [2](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/elips.png)
+2. Кункабаевой Камиле: [1](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/wolfram.png) [2](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/var.png)
+3. Щепиловой Ире и Зарманбетову Ахмеду: [1](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/truth.png) [2](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/economy.png) [3](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/beta_1.pdf)
+4. Каипову Булату: [1](https://github.com/Chetoff1228/stickers/blob/master/old/2-itog_stickers/porno.png)
 5. Донсокому Мише [1](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/ne.png) [2](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/keins.png)
 6. Ерёмину Вове: [1](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/r_py.png)
 7. Дорофеевой Насте: [1](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/4-300.png)
