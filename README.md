@@ -2,6 +2,8 @@
 
 Привет! В этом репозитории лежат стикеры, обложка, и разная атрибутика [Иканам Стьюдентс Комьюнити](https://vk.com/ikanam). Если хочешь, добавляй свою атрибутику и наклейки! Иногда мы её печатаем и распростроняем (ко всяким знаковым событиям вроде посвята или разных конференций). Не понимаешь как нарисовать и залить в репозиторий? Напиши мне в телеграм (@ppilif).
 
+New - пересобранная версия с 2022
+
 __Огромное спасибо за прорисовку стикеров нашим великолепным художниам! А именно:__
 
 1. Конновой Насте: [1](https://github.com/Chetoff1228/stickers/blob/master/new/ikanam/cover.png) [2](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/swan.png)  [3](https://github.com/Chetoff1228/stickers/blob/master/old/2-itog_stickers/posvyat.png) [4](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/Micro_Macro.png) [5](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/Ekanam_minimal.png)  [6](https://github.com/Chetoff1228/stickers/tree/master/old/merch_2019)
