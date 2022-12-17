@@ -1,28 +1,29 @@
 # Стикеры и разная атрибутика
 
 Привет! В этом репозитории лежат стикеры, обложка, и разная атрибутика [Иканам Стьюдентс Комьюнити](https://vk.com/ikanam). Если хочешь, добавляй свою атрибутику и наклейки! Иногда мы её печатаем и распростроняем (ко всяким знаковым событиям вроде посвята или разных конференций). Не понимаешь как нарисовать и залить в репозиторий? Напиши мне в телеграм (@ppilif).
+(new - пересобранная версия с 2022)
 
 __Огромное спасибо за прорисовку стикеров нашим великолепным художниам! А именно:__
 
-1. Конновой Насте: [1](https://github.com/FUlyankin/stickers/blob/master/cover.png) [2](https://github.com/FUlyankin/stickers/blob/master/2-itog_stickers/swan.png)  [3](https://github.com/FUlyankin/stickers/blob/master/2-itog_stickers/posvyat.png) [4](https://github.com/FUlyankin/stickers/blob/master/2-itog_stickers/Micro_Macro.png) [5](https://github.com/FUlyankin/stickers/blob/master/2-itog_stickers/Ekanam_minimal.png)  [6](https://github.com/FUlyankin/stickers/tree/master/merch_2019)
-1. Головановой Лизе [1](https://github.com/FUlyankin/stickers/blob/master/2-itog_stickers/potom_spat.png) [2](https://github.com/FUlyankin/stickers/blob/master/2-itog_stickers/pdf/mouse_learning.pdf)
-2. Жильцовой Алисе и Шебзуховой Дарине:  [1](https://github.com/FUlyankin/stickers/blob/master/2-itog_stickers/pot.png) [2](https://github.com/FUlyankin/stickers/blob/master/2-itog_stickers/elips.png)
-2. Кункабаевой Камиле: [1](https://github.com/FUlyankin/stickers/blob/master/2-itog_stickers/wolfram.png) [2](https://github.com/FUlyankin/stickers/blob/master/2-itog_stickers/var.png)
-3. Щепиловой Ире и Зарманбетову Ахмеду: [1](https://github.com/FUlyankin/stickers/blob/master/2-itog_stickers/truth.png) [2](https://github.com/FUlyankin/stickers/blob/master/2-itog_stickers/economy.png) [3](https://github.com/FUlyankin/stickers/blob/master/2-itog_stickers/pdf/beta_1.pdf)
-4. Каипову Булату: [1](https://github.com/FUlyankin/stickers/blob/master/2-itog_stickers/porno.png)
-5. Донсокому Мише [1](https://github.com/FUlyankin/stickers/blob/master/2-itog_stickers/ne.png) [2](https://github.com/FUlyankin/stickers/blob/master/2-itog_stickers/keins.png)
-6. Ерёмину Вове: [1](https://github.com/FUlyankin/stickers/blob/master/2-itog_stickers/r_py.png)
-7. Дорофеевой Насте: [1](https://github.com/FUlyankin/stickers/blob/master/2-itog_stickers/run.png)
-8. Третьякову Диме и Майоровой Ксюше: [1](https://github.com/FUlyankin/stickers/blob/master/2-itog_stickers/commet.jpg) [2](https://github.com/FUlyankin/stickers/blob/master/2-itog_stickers/2.png)
-9. Габриелян Насте [1](https://github.com/FUlyankin/stickers/blob/master/2-itog_stickers/pdf/is_lm.pdf)
-10. Масловой Соне [1](https://github.com/FUlyankin/stickers/blob/master/2-itog_stickers/pdf/data_cry.jpg)
+1. Конновой Насте: [1](https://github.com/Chetoff1228/stickers/blob/master/new/ikanam/cover.png) [2](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/swan.png)  [3](https://github.com/Chetoff1228/stickers/blob/master/old/2-itog_stickers/posvyat.png) [4](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/Micro_Macro.png) [5](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/Ekanam_minimal.png)  [6](https://github.com/Chetoff1228/stickers/tree/master/old/merch_2019)
+1. Головановой Лизе [1](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/potom_spat.png) [2](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/mouse_learning.pdf)
+2. Жильцовой Алисе и Шебзуховой Дарине:  [1](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/pot.png) [2](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/elips.png)
+2. Кункабаевой Камиле: [1](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/wolfram.png) [2](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/var.png)
+3. Щепиловой Ире и Зарманбетову Ахмеду: [1](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/truth.png) [2](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/economy.png) [3](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/beta_1.pdf)
+4. Каипову Булату: [1](https://github.com/Chetoff1228/stickers/blob/master/old/2-itog_stickers/porno.png)
+5. Донсокому Мише [1](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/ne.png) [2](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/keins.png)
+6. Ерёмину Вове: [1](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/r_py.png)
+7. Дорофеевой Насте: [1](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/4-300.png)
+8. Третьякову Диме и Майоровой Ксюше: [1](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/commet.jpg) [2](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/2.png)
+9. Габриелян Насте [1](https://github.com/Chetoff1228/stickers/blob/master/new/prod_stickers/is_lm.pdf)
+10. Масловой Соне [1](new/prod_stickers/data_cry.jpg)
 
 
 ### Чуть подробнее про стикеры:
 
 У программистов [много разных наклеек](http://hexb.in/). Также много наклеек у дата-сайнтистов. Обычно, каждый год на датафест (огромное собрание специалистов по анализу данных) печатается новая партия наклеек. Например, вот таких:
 
-![ ](https://raw.githubusercontent.com/FUlyankin/stickers/master/DataFest_Stikers/DF.jpg)
+![ ](https://github.com/Chetoff1228/stickers/blob/master/old/DataFest_Stikers/DF.jpg)
 
 Мы, иканамисты, тоже хотим наклеек! И ты, зашедший сюда можешь нарисовать свою наклейку! Рисовать их можно в чём угодно.
 
@@ -37,4 +38,4 @@ __Огромное спасибо за прорисовку стикеров н�
 
 Размеры стикеров:
 
-![](https://raw.githubusercontent.com/FUlyankin/stickers/master/dimensions.png)
+![](https://github.com/Chetoff1228/stickers/blob/master/new/ikanam/dimensions.png)
